@@ -1,0 +1,7 @@
+.build/
+.swiftpm/
+meradio.app/
+dist/
+*.xcodeproj
+.DS_Store
+node_modules/

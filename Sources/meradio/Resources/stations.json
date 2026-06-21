@@ -1,0 +1,601 @@
+[
+  {
+    "id": "gyeonginbangsong-ifm",
+    "name": "경인방송 iFM",
+    "streamURL": "http://180.131.1.27:1935/live/vodstream/playlist.m3u8",
+    "streamType": "hls",
+    "alternateURLs": [],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/ut82eJx9PF.png",
+    "frequency": "서울특별시 - 90.7 FM",
+    "genre": null
+  },
+  {
+    "id": "gongdongceradio-jeonjufm-935mhz",
+    "name": "공동체라디오 전주FM 93.5",
+    "streamURL": "http://radiostream.communityradio.kr/jcfm1",
+    "streamType": "mp3",
+    "alternateURLs": [],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/694/gongdongceradio-jeonjufm-935mhz.70bc301e.png",
+    "frequency": "전라북도 - Online",
+    "genre": null
+  },
+  {
+    "id": "gwangjucbs-cbs-gwangju",
+    "name": "광주 CBS",
+    "streamURL": "https://m-aac.cbs.co.kr/gwangju/_definst_/gwangju.stream/playlist.m3u8",
+    "streamType": "aac",
+    "alternateURLs": [],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/935/gwangjucbs-cbs-gwangju.b3e2a776.png",
+    "frequency": "광주광역시 - 103.1 FM",
+    "genre": "크리스찬"
+  },
+  {
+    "id": "gugak-fm",
+    "name": "국악방송 (Gugak FM)",
+    "streamURL": "http://mgugaklive.nowcdn.co.kr:1935/gugakradio/gugakradio.stream/playlist.m3u8",
+    "streamType": "hls",
+    "alternateURLs": [],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/jcBPTgEScz.png",
+    "frequency": "서울특별시 - 99.1 FM",
+    "genre": "월드 뮤직"
+  },
+  {
+    "id": "daejeongeugdongbangsongfm-933-febc-daejeon-hlad",
+    "name": "대전극동방송 FM 93.3",
+    "streamURL": "http://mlive2.febc.net:1935/live/djlive/playlist.m3u8",
+    "streamType": "hls",
+    "alternateURLs": [],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/PLehkFJP5u.png",
+    "frequency": "대전광역시 - 93.3 FM",
+    "genre": "크리스찬"
+  },
+  {
+    "id": "busangeugdongbangsongfm-933-febc-busan-hlqq-fm",
+    "name": "부산극동방송 FM 93.3",
+    "streamURL": "http://mlive2.febc.net:1935/live/bsfebc/playlist.m3u8",
+    "streamType": "hls",
+    "alternateURLs": [],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/P4p47VGdQf.png",
+    "frequency": "부산광역시 - 93.3 FM",
+    "genre": "크리스찬"
+  },
+  {
+    "id": "seoulgeugdongbangsongam-1188-febc-seoul-hlkx-am",
+    "name": "서울극동방송 AM 1188",
+    "streamURL": "http://mlive2.febc.net:1935/live/seoulam/playlist.m3u8",
+    "streamType": "hls",
+    "alternateURLs": [],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/EWTEYvbt32.png",
+    "frequency": "서울특별시 - 1188 AM",
+    "genre": "크리스찬"
+  },
+  {
+    "id": "febc-radio-seoul",
+    "name": "서울극동방송 FM 106.9",
+    "streamURL": "http://mlive2.febc.net:1935/live/seoulfm/playlist.m3u8",
+    "streamType": "hls",
+    "alternateURLs": [],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/PMFaZEhGr7.png",
+    "frequency": "서울특별시 - 106.9 FM",
+    "genre": "크리스찬"
+  },
+  {
+    "id": "wowccm-fm",
+    "name": "와우씨씨엠 (WOWCCM)",
+    "streamURL": "https://wowccm.net/listen.pls",
+    "streamType": "mp3",
+    "alternateURLs": [],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/2K5cX7sm4r.png",
+    "frequency": "서울특별시 - Online",
+    "genre": "크리스찬"
+  },
+  {
+    "id": "cbs-fm-music",
+    "name": "음악FM CBS 라디오 (Music FM)",
+    "streamURL": "https://m-aac.cbs.co.kr/mweb_cbs939/_definst_/cbs939.stream/playlist.m3u8",
+    "streamType": "aac",
+    "alternateURLs": [
+      "https://m-aac.cbs.co.kr/mweb_cbs939/_definst_/cbs939.stream/chunklist.m3u8",
+      "https://aac.cbs.co.kr/cbs939/_definst_/cbs939.stream/playlist.m3u8",
+      "http://aac.cbs.co.kr:1935/cbs939/_definst_/cbs939.stream/playlist.m3u8"
+    ],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/593/eumagfm-cbs-radio-music-fm.0f29a25a.png",
+    "frequency": "서울특별시 - 93.9 FM",
+    "genre": "크리스찬"
+  },
+  {
+    "id": "jejugeugdongbangsongam-1566-febc-jeju-hlaz",
+    "name": "제주극동방송 AM 1566",
+    "streamURL": "http://mlive.febc.net:1935/live/jjam.stream/playlist.m3u8",
+    "streamType": "hls",
+    "alternateURLs": [],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/hEFeaNV6CU.png",
+    "frequency": "제주특별자치도 - 1566 AM",
+    "genre": "크리스찬"
+  },
+  {
+    "id": "jejugeugdongbangsongfm-1047-febc-jeju-hlaz",
+    "name": "제주극동방송 FM 104.7",
+    "streamURL": "http://mlive2.febc.net:1935/live/jejufm/playlist.m3u8",
+    "streamType": "hls",
+    "alternateURLs": [],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/qzac3c2cwtfp.jpg",
+    "frequency": "제주특별자치도 - 104.7 FM",
+    "genre": "크리스찬"
+  },
+  {
+    "id": "cbs-fm-standard",
+    "name": "표준FM CBS 라디오 (Standard FM)",
+    "streamURL": "https://m-aac.cbs.co.kr/mweb_cbs981/_definst_/cbs981.stream/playlist.m3u8",
+    "streamType": "aac",
+    "alternateURLs": [
+      "https://m-aac.cbs.co.kr/mweb_cbs981/_definst_/cbs981.stream/chunklist.m3u8",
+      "https://aac.cbs.co.kr/cbs981/_definst_/cbs981.stream/playlist.m3u8",
+      "http://aac.cbs.co.kr:1935/cbs981/_definst_/cbs981.stream/playlist.m3u8"
+    ],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/017/pyojunfm-cbs-radio-standard-fm.982d4655.png",
+    "frequency": "서울특별시 - 837 AM",
+    "genre": "크리스찬"
+  },
+  {
+    "id": "afn-daegu",
+    "name": "AFN Daegu",
+    "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNP_DGU_SC",
+    "streamType": "mp3",
+    "alternateURLs": [],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/tmeccagqsxug.png",
+    "frequency": "대구광역시 - Online",
+    "genre": "팝 / 톱 40"
+  },
+  {
+    "id": "afn-humphreys",
+    "name": "AFN Humphreys",
+    "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNP_OSN_SC",
+    "streamType": "mp3",
+    "alternateURLs": [],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/s9c2jxuywnh9.png",
+    "frequency": null,
+    "genre": "팝 / 톱 40"
+  },
+  {
+    "id": "afn-kunsan",
+    "name": "AFN Kunsan",
+    "streamURL": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNP_KSN_SC",
+    "streamType": "mp3",
+    "alternateURLs": [],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/nz8mdwhcnq9l.png",
+    "frequency": "전라북도 - 88.5 FM",
+    "genre": "팝 / 톱 40"
+  },
+  {
+    "id": "arirang-radio",
+    "name": "Arirang Radio",
+    "streamURL": "http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8",
+    "streamType": "hls",
+    "alternateURLs": [],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/XjsGxwjyqW.png",
+    "frequency": "대전광역시 - 101.9 FM",
+    "genre": "팝 / 톱 40"
+  },
+  {
+    "id": "bbs-fm-daegubulgyobangsong",
+    "name": "BBS FM 대구불교방송",
+    "streamURL": "http://bbslive.goldenday.kr:1935/hls/dgbbs/playlist.m3u8",
+    "streamType": "hls",
+    "alternateURLs": [
+      "http://bbslive.goldenday.kr:8080/hls/dgbbs.m3u8"
+    ],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/LT4dzWGDaA.png",
+    "frequency": "대구광역시 - 94.5 FM",
+    "genre": "종교 &amp; 영성"
+  },
+  {
+    "id": "beam-fm",
+    "name": "Beam FM",
+    "streamURL": "https://beamadult.streeemer.com/listen/beamadult/radio.aac",
+    "streamType": "aac",
+    "alternateURLs": [
+      "https://beamadult.streeemer.com/listen/beamadult/radio.mp3",
+      "https://beamadult-2.streeemer.com/listen/beamadult/radio.aac",
+      "https://beamadult-2.streeemer.com/listen/beamadult/radio.mp3"
+    ],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/927/beam-fm-cwihyangjeogyeog-gamgag-pabsong.8c5237e7.jpg",
+    "frequency": "서울특별시 - Online",
+    "genre": "어덜트 컨템포러리"
+  },
+  {
+    "id": "bigbradio-asian",
+    "name": "Big B Radio - Asian Pop",
+    "streamURL": "https://antares.dribbcast.com/proxy/apop?mp=/s",
+    "streamType": "mp3",
+    "alternateURLs": [
+      "https://canopus.dribbcast.com/stream/8092"
+    ],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/RDerT5ChRM.png",
+    "frequency": "서울특별시 - Online",
+    "genre": "팝 / 톱 40"
+  },
+  {
+    "id": "big-b-radio-cpop",
+    "name": "Big B Radio - CPOP",
+    "streamURL": "https://antares.dribbcast.com/proxy/cpop?mp=/s",
+    "streamType": "mp3",
+    "alternateURLs": [
+      "https://canopus.dribbcast.com/stream/8148"
+    ],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/LrB6zbm5mp.png",
+    "frequency": "서울특별시 - Online",
+    "genre": "팝 / 톱 40"
+  },
+  {
+    "id": "bigbradio-jpop",
+    "name": "Big B Radio - JPOP",
+    "streamURL": "https://antares.dribbcast.com/proxy/jpop?mp=/s",
+    "streamType": "mp3",
+    "alternateURLs": [],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/eN7D5qz9m7.png",
+    "frequency": "서울특별시 - Online",
+    "genre": "팝 / 톱 40"
+  },
+  {
+    "id": "bigbradio",
+    "name": "Big B Radio - KPOP",
+    "streamURL": "https://antares.dribbcast.com/proxy/kpop?mp=/s",
+    "streamType": "mp3",
+    "alternateURLs": [],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/nctANuqYqB.png",
+    "frequency": "서울특별시 - Online",
+    "genre": "팝 / 톱 40"
+  },
+  {
+    "id": "box-k-pop-keipab",
+    "name": "BOX : K-POP",
+    "streamURL": "https://play.streamafrica.net/kpopradio",
+    "streamType": "mp3",
+    "alternateURLs": [],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/577/box-k-pop-keipab.e07c92cf.png",
+    "frequency": "서울특별시 - Online",
+    "genre": "팝 / 톱 40"
+  },
+  {
+    "id": "btnradio-ulrim-ulrimcaeneol",
+    "name": "BTN라디오 울림",
+    "streamURL": "https://btn.nowcdn.co.kr/btn_ch4st/live.stream/playlist.m3u8",
+    "streamType": "hls",
+    "alternateURLs": [],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/dhg2nezpj2rg.png",
+    "frequency": "부산광역시 - Online",
+    "genre": null
+  },
+  {
+    "id": "busan-efm",
+    "name": "Busan e-FM 부산영어라디오",
+    "streamURL": "http://befm905.live.smilecdn.com:1935/befm905_live/live/playlist.m3u8",
+    "streamType": "hls",
+    "alternateURLs": [],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/bM4rX67Pmq.png",
+    "frequency": "부산광역시 - 90.5 FM",
+    "genre": "팝 / 톱 40"
+  },
+  {
+    "id": "cbs-fm-joy",
+    "name": "CBS Joy4U",
+    "streamURL": "https://m-aac.cbs.co.kr/mweb_cbscmc/_definst_/cbscmc.stream/playlist.m3u8",
+    "streamType": "aac",
+    "alternateURLs": [
+      "https://aac.cbs.co.kr/cbscmc/_definst_/cbscmc_96k.stream/playlist.m3u8",
+      "http://aac.cbs.co.kr:1935/cbscmc/_definst_/cbscmc_96k.stream/playlist.m3u8"
+    ],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/888/cbs-joy4u-cbs-radio.851e9d2a.png",
+    "frequency": "서울특별시 - Online",
+    "genre": "크리스찬"
+  },
+  {
+    "id": "cjb-ceongjubangsong-joy-fm",
+    "name": "CJB 청주방송 Joy FM",
+    "streamURL": "http://1.222.207.80:1935/live/cjbradio/playlist.m3u8",
+    "streamType": "hls",
+    "alternateURLs": [],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/8Nx5cfW9uU.jpg",
+    "frequency": "충청북도 - 101.5 FM",
+    "genre": null
+  },
+  {
+    "id": "pbc-fm-seoul-1053",
+    "name": "CPBC 가톨릭평화방송",
+    "streamURL": "http://onair2.cpbc.co.kr:1935/live/Instreamer.stream_aac/playlist.m3u8",
+    "streamType": "aac",
+    "alternateURLs": [],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/hR2pPRzYQE.png",
+    "frequency": "서울특별시 - 105.3 FM",
+    "genre": "크리스찬"
+  },
+  {
+    "id": "ebs-fm",
+    "name": "EBS 라디오",
+    "streamURL": "https://ebsonair.ebs.co.kr/fmradiofamilypc/familypc1m/playlist.m3u8",
+    "streamType": "hls",
+    "alternateURLs": [
+      "https://ebsonair.ebs.co.kr/fmradiofamilypc/familypc1m/chunklist.m3u8"
+    ],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/DVtfzemusU.png",
+    "frequency": "서울특별시 - 104.5 FM",
+    "genre": "문화 및 교육"
+  },
+  {
+    "id": "ebs-fm-iradio",
+    "name": "EBS 외국어 라디오 (i-radio)",
+    "streamURL": "https://ebsonair.ebs.co.kr/fmradiofamilypc/familypc1m/playlist.m3u8",
+    "streamType": "hls",
+    "alternateURLs": [
+      "https://ebsonair.ebs.co.kr/fmradiofamilypc/familypc1m/chunklist.m3u8"
+    ],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/aBeeJuVcq8.png",
+    "frequency": "서울특별시 - Online",
+    "genre": "문화 및 교육"
+  },
+  {
+    "id": "jibs-jejugugjejayudosibangsong",
+    "name": "JIBS 제주국제자유도시방송",
+    "streamURL": "http://123.140.197.22/stream/31/play.m3u8",
+    "streamType": "hls",
+    "alternateURLs": [],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/NRMvxK4SzP.jpg",
+    "frequency": "제주특별자치도 - 101.5 FM",
+    "genre": "현지"
+  },
+  {
+    "id": "k-pop-1",
+    "name": "K-POP 1",
+    "streamURL": "https://s96.radiolize.com:8030/radio.mp3",
+    "streamType": "mp3",
+    "alternateURLs": [],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/098/k-pop-1.fab2649d.png",
+    "frequency": "서울특별시 - Online",
+    "genre": "팝 / 톱 40"
+  },
+  {
+    "id": "kbc-fm",
+    "name": "kbc 광주방송 MyFM",
+    "streamURL": "https://vod.ikbc.co.kr/KBCFM/kbcra_aac/playlist.m3u8",
+    "streamType": "aac",
+    "alternateURLs": [],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/837/kbc-gwangjubangsong-myfm.4c0a0d66.png",
+    "frequency": "광주광역시 - 101.1 FM",
+    "genre": "현지"
+  },
+  {
+    "id": "kfn-fm-gugbanghongboweon-defense",
+    "name": "KFN-FM 국방홍보원",
+    "streamURL": "http://mediaworks.dema.mil.kr:1935/live_edge/audio.sdp/playlist.m3u8",
+    "streamType": "hls",
+    "alternateURLs": [],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/bExab5TdVw.jpeg",
+    "frequency": "서울특별시 - 96.7 FM",
+    "genre": "공중파"
+  },
+  {
+    "id": "licas-metal-festival",
+    "name": "Lica's Metal Festival",
+    "streamURL": "http://c1.inlive.co.kr:3240/listen.pls",
+    "streamType": "mp3",
+    "alternateURLs": [],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/2rmstxyppq83.jpg",
+    "frequency": "서울특별시 - Online",
+    "genre": "메탈"
+  },
+  {
+    "id": "mmlr-fm",
+    "name": "MMLR FM",
+    "streamURL": "https://stream.zeno.fm/2h4b2x5bpy8uv",
+    "streamType": "mp3",
+    "alternateURLs": [],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/xxtW8FmvDW.png",
+    "frequency": "서울특별시 - 102.7 FM",
+    "genre": "인터내셔널"
+  },
+  {
+    "id": "myfm-913-seodaemungongdongceradio-seodaemun-fm-seodaemunfm-sdmfm",
+    "name": "MyFM 91.3 서대문공동체라디오",
+    "streamURL": "http://115.68.193.176:8000/sdmfm",
+    "streamType": "mp3",
+    "alternateURLs": [],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/W7vvFay4Mt.png",
+    "frequency": "서울특별시 - 91.3 FM",
+    "genre": "공중파"
+  },
+  {
+    "id": "scn-seongseogongdongce-fm",
+    "name": "SCN 성서공동체 FM",
+    "streamURL": "http://115.85.182.39/scnfm",
+    "streamType": "mp3",
+    "alternateURLs": [],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/9kbJqQH62W.png",
+    "frequency": "대구광역시 - 89.1 FM",
+    "genre": "현지"
+  },
+  {
+    "id": "tbc-fm",
+    "name": "TBC Dream FM",
+    "streamURL": "http://221.157.125.239:1935/live/mp3:fmstream/playlist.m3u8",
+    "streamType": "hls",
+    "alternateURLs": [],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/ZHQ25kvwDd.png",
+    "frequency": "대구광역시 - 99.3 FM",
+    "genre": null
+  },
+  {
+    "id": "tbn-gangweongyotongbangsong",
+    "name": "TBN 강원교통방송",
+    "streamURL": "http://radio2.tbn.or.kr:1935/gangwon/myStream/playlist.m3u8",
+    "streamType": "hls",
+    "alternateURLs": [],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/kbgyczu8gx8k.png",
+    "frequency": "강원도 - 105.9 FM",
+    "genre": "뉴스"
+  },
+  {
+    "id": "tbn-gyeongbuggyotongbangsong",
+    "name": "TBN 경북교통방송",
+    "streamURL": "http://radio2.tbn.or.kr:1935/kyungbuk/myStream/playlist.m3u8",
+    "streamType": "hls",
+    "alternateURLs": [],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/6bxxmbchmzqh.png",
+    "frequency": "경상북도 - 103.5 FM",
+    "genre": "뉴스"
+  },
+  {
+    "id": "tbn-gwangjugyotongbangsong",
+    "name": "TBN 광주교통방송",
+    "streamURL": "http://radio2.tbn.or.kr:1935/gwangju/myStream/playlist.m3u8",
+    "streamType": "hls",
+    "alternateURLs": [],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/fsazkajdw9gb.png",
+    "frequency": "광주광역시 - 97.3 FM",
+    "genre": "뉴스"
+  },
+  {
+    "id": "tbn-daegu",
+    "name": "TBN 대구교통방송",
+    "streamURL": "http://radio2.tbn.or.kr:1935/daegu/myStream/playlist.m3u8",
+    "streamType": "hls",
+    "alternateURLs": [],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/ppw4knxlh4zc.png",
+    "frequency": "대구광역시 - 103.9 FM",
+    "genre": "뉴스"
+  },
+  {
+    "id": "tbn-daejeongyotongbangsong",
+    "name": "TBN 대전교통방송",
+    "streamURL": "http://radio2.tbn.or.kr:1935/daejeon/myStream/playlist.m3u8",
+    "streamType": "hls",
+    "alternateURLs": [],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/w82hmpvlw2yv.png",
+    "frequency": "대전광역시 - 102.9 FM",
+    "genre": "뉴스"
+  },
+  {
+    "id": "tbn-busangyotongbangsong",
+    "name": "TBN 부산교통방송",
+    "streamURL": "http://radio2.tbn.or.kr:1935/busan/myStream/playlist.m3u8",
+    "streamType": "hls",
+    "alternateURLs": [],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/nl4cedj3gp2q.png",
+    "frequency": "부산광역시 - 94.9 FM",
+    "genre": "뉴스"
+  },
+  {
+    "id": "tbn-ulsangyotongbangsong",
+    "name": "TBN 울산교통방송",
+    "streamURL": "http://radio2.tbn.or.kr:1935/ulsan/myStream/playlist.m3u8",
+    "streamType": "hls",
+    "alternateURLs": [],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/5unsvj6wlnxg.png",
+    "frequency": "울산광역시 - 104.1 FM",
+    "genre": "뉴스"
+  },
+  {
+    "id": "tbn-cangweongyotongbangsong",
+    "name": "TBN 창원교통방송",
+    "streamURL": "http://radio2.tbn.or.kr:1935/gyeongnam/myStream/playlist.m3u8",
+    "streamType": "hls",
+    "alternateURLs": [],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/ksrgz8fvmufn.png",
+    "frequency": "경상남도 - 95.5 FM",
+    "genre": "뉴스"
+  },
+  {
+    "id": "tbs-efm",
+    "name": "TBS eFM",
+    "streamURL": "https://cdnefm.tbs.seoul.kr/tbs/_definst_/tbs_efm_web_360.smil/playlist.m3u8",
+    "streamType": "hls",
+    "alternateURLs": [],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/PbCwQdBqhB.jpg",
+    "frequency": "서울특별시 - 101.3 FM",
+    "genre": "문화 및 교육"
+  },
+  {
+    "id": "tbs-fm",
+    "name": "TBS FM 95.1",
+    "streamURL": "https://cdnfm.tbs.seoul.kr/tbs/_definst_/tbs_fm_web_360.smil/playlist.m3u8",
+    "streamType": "hls",
+    "alternateURLs": [
+      "http://58.234.158.60:1935/fmlive/myStream/playlist.m3u8"
+    ],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/uSW5P2YwpY.png",
+    "frequency": "서울특별시 - 95.1 FM",
+    "genre": "R&amp;B / 소울"
+  },
+  {
+    "id": "una-fm",
+    "name": "Una FM 힐링 라디오",
+    "streamURL": "https://cdn.podbbang.com/data1/unamaster/6m080110m3.mp3",
+    "streamType": "mp3",
+    "alternateURLs": [],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/fhw54vqgljku.jpeg",
+    "frequency": "서울특별시 - Online",
+    "genre": null
+  },
+  {
+    "id": "wbs-gwangjuweoneumbangsong-1079-fm",
+    "name": "WBS 광주원음방송 107.9 FM",
+    "streamURL": "https://wbsradio2.kr/wbs-g",
+    "streamType": "mp3",
+    "alternateURLs": [],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/3eHdMu5qZK.png",
+    "frequency": "광주광역시 - 107.9 FM",
+    "genre": "종교 &amp; 영성"
+  },
+  {
+    "id": "wbs-daeguweoneumbangsong-983-fm",
+    "name": "WBS 대구원음방송 98.3 FM",
+    "streamURL": "https://wbsradio2.kr/wbs-d",
+    "streamType": "mp3",
+    "alternateURLs": [],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/srmvKgjrzn.png",
+    "frequency": "대구광역시 - 98.3 FM",
+    "genre": "종교 &amp; 영성"
+  },
+  {
+    "id": "wbs-busanweoneumbangsong-1049",
+    "name": "WBS 부산원음방송 104.9",
+    "streamURL": "https://wbsradio2.kr/wbs-b",
+    "streamType": "mp3",
+    "alternateURLs": [],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/D4vYBxY4Yc.png",
+    "frequency": "부산광역시 - 104.9 FM",
+    "genre": "종교 &amp; 영성"
+  },
+  {
+    "id": "wbs-seoulweoneumbangsong-897-fm",
+    "name": "WBS 서울원음방송 89.7 FM",
+    "streamURL": "https://wbsradio.kr/wbs-seoul",
+    "streamType": "mp3",
+    "alternateURLs": [
+      "http://49.247.3.32:8000/wbs-smok"
+    ],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/gtESTQhJKn.png",
+    "frequency": "서울특별시 - 89.7 FM",
+    "genre": "종교 &amp; 영성"
+  },
+  {
+    "id": "wbs-jeonbugweoneumbangsong-979-fm",
+    "name": "WBS 전북원음방송 97.9 FM",
+    "streamURL": "https://wbsradio2.kr/wbs-j",
+    "streamType": "mp3",
+    "alternateURLs": [],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/BX98g8s6HX.png",
+    "frequency": "전라북도 - 97.9 FM",
+    "genre": "종교 &amp; 영성"
+  },
+  {
+    "id": "ytn-radio",
+    "name": "YTN 라디오 (YTN FM)",
+    "streamURL": "https://radiolive.ytn.co.kr/radio/_definst_/20211118_fmlive/playlist.m3u8",
+    "streamType": "hls",
+    "alternateURLs": [],
+    "logoURL": "https://static.mytuner.mobi/media/radios-150px/S44zUmRGAb.png",
+    "frequency": "서울특별시 - 94.5 FM",
+    "genre": "뉴스"
+  }
+]
