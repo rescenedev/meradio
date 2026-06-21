@@ -5,3 +5,4 @@ dist/
 *.xcodeproj
 .DS_Store
 node_modules/
+.gstack/
